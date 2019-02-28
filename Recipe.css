@@ -1,0 +1,33 @@
+#recipetitle {
+    border-width: 2px;
+    background-color: paleturquoise;
+    border-color: rgb(1, 22, 22);
+    border-style: solid;
+    font-size: 30px;
+}
+
+#Description {
+    background-color: pink;
+    border-color: black;
+    border-style: solid;
+    font-size: 24px;
+}
+
+#paragraph {
+    font: size 12;;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Ingredients {
+    background-color: orangered;
+    border-color: black;
+    border-style: solid;
+    font-size: 24px;
+}
+
+#Directions {
+    background-color: purple;
+    border-color: black;
+    border-style: solid;
+    font-size: 24px;
+}

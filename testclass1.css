@@ -1,0 +1,26 @@
+.testclass#test {
+    font-weight: bold;
+    border-color: orangered;
+    font-size:24px;
+    background: powderblue;
+}
+
+#square {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#circle {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#triangle {
+    width: 0;
+    height: 0;
+    border-top: 200px solid blue;
+    border-right: 200px solid transparent;
+}
